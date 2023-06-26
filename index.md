@@ -28,7 +28,7 @@ I am an associate professor at Institute of Information Engineering, Chinese Aca
 2. [SANER] **VIVA: Binary level vulnerability identification via partial signature.** **Yang Xiao**, Zhengzi Xu, Weiwei Zhang, Chendong Yu, Longquan Liu, Wei Zou, Zimu Yuan, Yang Liu, Aihua Piao, Wei Huo. IEEE International Conference on Software Analysis, Evolution and Reengineering.
 
 ## 2020
-1. [USENIX SEC] **MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures.** **Yang Xiao**, Bihuan Chen, Chendong Yu, Zhengzi Xu, Zimu Yuan, Feng Li, Binghong Liu, Yang Liu, Wei Huo, Wei Zou, Wenchang Shi. USENIX Security Symposium
+1. [USENIX SEC] **MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures.** **Yang Xiao**, Bihuan Chen, Chendong Yu, Zhengzi Xu, Zimu Yuan, Feng Li, Binghong Liu, Yang Liu, Wei Huo, Wei Zou, Wenchang Shi. USENIX Security Symposium.
 
 ## 2019
 1. [ASE] **B2SFinder: Detecting open-source software reuse in COTS software.** Zimu Yuan, Muyue Feng, Feng Li, Gu Ban, **Yang Xiao**, Shiyang Wang, Qian Tang, He Su, Chendong Yu, Jiahuan Xu, Aihua Piao, Jingling Xuey, Wei Huo. IEEE/ACM International Conference on Automated Software Engineering.
