@@ -1,5 +1,9 @@
 # Bio
-I am an associate professor at Institute of Information Engineering, Chinese Academy of Sciences. I foused on software security and software supply chain security.
+I am an associate professor at Institute of Information Engineering, Chinese Academy of Sciences. My primary research interests include software security and software supply chain security. 
+
+
+
+I foused on software security and software supply chain security.
 
 # Education and Employment
 
