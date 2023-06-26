@@ -3,8 +3,6 @@ I am an associate professor at Institute of Information Engineering, Chinese Aca
 
 
 
-I foused on software security and software supply chain security.
-
 # Education and Employment
 
 * 2022.1 - Present, Institute of Information Engineering, Chinese Academy of Sciences, Associate Professor.
