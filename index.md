@@ -38,5 +38,6 @@ I am an associate professor at Institute of Information Engineering, Chinese Aca
 
 
 
-
-![visit tracker](http://www.clustrmaps.com/map_v2.png?d=-Pnknrh6R_fbdVF5UuI1NAZ1zcvPpjtch8CrZpH88Dk&cl=ffffff&w=a)
+ <p align="center">
+    <img src="http://www.clustrmaps.com/map_v2.png?d=-Pnknrh6R_fbdVF5UuI1NAZ1zcvPpjtch8CrZpH88Dk&cl=ffffff&w=a">
+ </p>
