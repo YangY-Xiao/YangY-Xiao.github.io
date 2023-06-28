@@ -1,5 +1,5 @@
 # Bio
-I am an associate professor at Institute of Information Engineering, Chinese Academy of Sciences. My primary research interests include software security and software supply chain security. 
+I am an associate professor at Institute of Information Engineering, Chinese Academy of Sciences. My primary research interests include software security and software supply chain security. Please feel free to contact me by email (xiaoyang[at]iie.ac.cn).
 
 
 
