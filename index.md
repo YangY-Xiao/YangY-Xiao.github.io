@@ -14,11 +14,13 @@ I am an associate professor at Institute of Information Engineering, Chinese Aca
 # Publications
 
 ## 2023
-1. [TOSEM] **Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge.** Shouguo Yang, Chaopeng Dong, **Yang Xiao(\*)**, Yiran Cheng, Zhiqiang Shi, Zhi Li, Limin Sun. ACM Transactions on Software Engineering and Methodology. (CCF-A)
-2. [TOSEM] **Towards Practical Binary Code Similarity Detection: Vulnerability Verification via Patch Semantic Analysis.** Shouguo Yang, Zhengzi Xu, **Yang Xiao(\*)**, Zhe Lang, Wei Tang, Yang Liu, Zhiqiang Shi, Hong Li, Limin Sun. ACM Transactions on Software Engineering and Methodology. (CCF-A)
-3. [USENIX SEC] **Detecting API Post-Handling Bugs Using Code and Description in Patches.** Miaoqian Lin, Kai Chen, **Yang Xiao**. USENIX Security Symposium. (CCF-A)
-4. [ISSTA] **ACETest: Automated Constraint Extraction for Testing Deep Learning Operators.** Jingyi Shi, **Yang Xiao(\*)**, Yuekang Li, Yeting Li, Dongsong Yu, Chendong Yu, Hui Su, Yufeng Chen, Wei Huo. ACM SIGSOFT International Symposium on Software Testing and Analysis. (CCF-A)
-5. [S&P] **Effective ReDoS Detection by Principled Vulnerability Modeling and Exploit Generation.** Xinyi Wang, Cen Zhang, Yeting Li, Zhiwu Xu, Shuailin Huang, Yi Liu, Yican Yao, **Yang Xiao**, Yanyan Zou, Yang Liu, Wei Huo. 2023 IEEE Symposium on Security and Privacy. (CCF-A)
+1. [NDSS] **File Hijacking Vulnerability: The Elephant in the Room.** Chendong Yu, **Yang Xiao(*),** Jie Lu, Yuekang Li, Yeting Li, Lian Li, Yifan Dong, Jian Wang, Jingyi Shi, Defang Bo, Wei Huo. Network and Distributed System Security (NDSS) Symposium. (CCF-A)
+2. [ESEC/FSE] **Learning Program Semantics for Vulnerability Detection via Vulnerability-specific Inter-procedural Slicing.** Bozhi Wu, Shangqing Liu, **Yang Xiao,** Zhiming Li, Jun Sun, Shang-Wei Lin. ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering. (CCF-A)
+3. [TOSEM] **Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge.** Shouguo Yang, Chaopeng Dong, **Yang Xiao(\*)**, Yiran Cheng, Zhiqiang Shi, Zhi Li, Limin Sun. ACM Transactions on Software Engineering and Methodology. (CCF-A)
+4. [TOSEM] **Towards Practical Binary Code Similarity Detection: Vulnerability Verification via Patch Semantic Analysis.** Shouguo Yang, Zhengzi Xu, **Yang Xiao(\*)**, Zhe Lang, Wei Tang, Yang Liu, Zhiqiang Shi, Hong Li, Limin Sun. ACM Transactions on Software Engineering and Methodology. (CCF-A)
+5. [USENIX SEC] **Detecting API Post-Handling Bugs Using Code and Description in Patches.** Miaoqian Lin, Kai Chen, **Yang Xiao**. USENIX Security Symposium. (CCF-A)
+6. [ISSTA] **ACETest: Automated Constraint Extraction for Testing Deep Learning Operators.** Jingyi Shi, **Yang Xiao(\*)**, Yuekang Li, Yeting Li, Dongsong Yu, Chendong Yu, Hui Su, Yufeng Chen, Wei Huo. ACM SIGSOFT International Symposium on Software Testing and Analysis. (CCF-A)
+7. [S&P] **Effective ReDoS Detection by Principled Vulnerability Modeling and Exploit Generation.** Xinyi Wang, Cen Zhang, Yeting Li, Zhiwu Xu, Shuailin Huang, Yi Liu, Yican Yao, **Yang Xiao**, Yanyan Zou, Yang Liu, Wei Huo. 2023 IEEE Symposium on Security and Privacy. (CCF-A)
 
 ## 2022
 1. [Cybersecurity] **Unleashing the power of pseudo-code for binary code similarity analysis.** Weiwei Zhang, Zhengzi Xu, **Yang Xiao**, Yinxing Xue. Cybersecurity. (IIE-B)
