@@ -15,6 +15,7 @@ I am an associate professor at Institute of Information Engineering, Chinese Aca
 
 ## 2024
 1. [NDSS] **File Hijacking Vulnerability: The Elephant in the Room.** Chendong Yu, **Yang Xiao(*),** Jie Lu, Yuekang Li, Yeting Li, Lian Li, Yifan Dong, Jian Wang, Jingyi Shi, Defang Bo, Wei Huo. Network and Distributed System Security (NDSS) Symposium. (CCF-A)
+1. [ICSE] **LibvDiff: Library Version Difference Guided OSS Version Identification in Binaries.** Chaopeng Dong, Siyuan Li, Shouguo Yang, **Yang Xiao**, Yongpan Wang, Hong Li, Zhi Li, Limin Sun. 46th International Conference on Software Engineering. (CCF-A)
 
 ## 2023
 1. [ESEC/FSE] **Learning Program Semantics for Vulnerability Detection via Vulnerability-specific Inter-procedural Slicing.** Bozhi Wu, Shangqing Liu, **Yang Xiao,** Zhiming Li, Jun Sun, Shang-Wei Lin. ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering. (CCF-A)
