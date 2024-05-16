@@ -1,5 +1,5 @@
 # Bio
-I am an associate professor at Institute of Information Engineering, Chinese Academy of Sciences. My primary research interests include software security and software supply chain security. Please feel free to contact me by email (xiaoyang[at]iie.ac.cn).
+I am an associate professor at Institute of Information Engineering, Chinese Academy of Sciences. My primary research interests include software security, and software supply chain security. Please feel free to contact me by email (xiaoyang[at]iie.ac.cn).
 
 #### 课题组长期招收硕士生、博士生和博士后，欢迎对软件与系统安全感兴趣的同学加入我们团队。
 
@@ -14,6 +14,8 @@ I am an associate professor at Institute of Information Engineering, Chinese Aca
 # Publications
 
 ## 2024
+1. [USENIX SEC] **Leveraging Semantic Relations in Code and Data to Enhance Taint  Analysis of Embedded Systems.** Jiaxu Zhao, Yuekang Li, Yanyan Zou, Zhaohui Liang, **Yang Xiao**, Yeting Li, Bingwei Peng, Nanyu Zhong, Xinyi Wang, Wei Wang, Wei Huo. USENIX Security Symposium. (CCF-A)
+1. [ISSTA] **SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection.** Xincheng Wen, Cuiyun Gao, Shuzheng Gao, **Yang Xiao**, Michael R Lyu. ACM SIGSOFT International Symposium on Software Testing and Analysis. (CCF-A)
 1. [NDSS] **File Hijacking Vulnerability: The Elephant in the Room.** Chendong Yu, **Yang Xiao(*),** Jie Lu, Yuekang Li, Yeting Li, Lian Li, Yifan Dong, Jian Wang, Jingyi Shi, Defang Bo, Wei Huo. Network and Distributed System Security (NDSS) Symposium. (CCF-A)
 1. [ICSE] **LibvDiff: Library Version Difference Guided OSS Version Identification in Binaries.** Chaopeng Dong, Siyuan Li, Shouguo Yang, **Yang Xiao**, Yongpan Wang, Hong Li, Zhi Li, Limin Sun. 46th International Conference on Software Engineering. (CCF-A)
 
