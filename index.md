@@ -16,7 +16,7 @@ I am an associate professor at Institute of Information Engineering, Chinese Aca
 ## 2025
 1. [USENIX SEC] **From Constraints to Cracks: Constraint Semantic Inconsistencies as Vulnerability Beacons for Embedded Systems.** Jiaxu Zhao, Yuekang Li, Yanyan Zou, **Yang Xiao**, Naijia Jiang, Yeting Li, Nanyu Zhong, Bingwei Peng, Kunpeng Jian, Wei Huo. USENIX Security Symposium. (CCF-A)
 2. [USENIX SEC] **VULCANBOOST: Boosting ReDoS Fixes through Symbolic Representation and Feature Normalization.** Yeting Li, Yecheng Sun, Zhiwu Xu, Haiming Chen, Xinyi Wang, Hengyu Yang, Huina Chao, Cen Zhang, **Yang Xiao**, Yanyan Zou, Feng Li, Wei Huo. USENIX Security Symposium. (CCF-A)
-3. [USENIX SEC] **ZIPPER: Static Taint Analysis for PHP Applications with Precision and Efficiency.** Xinyi Wang, Yeting Li*, Jie Lu, Shizhe Cui, Chenghang Shi, Qin Mai, Yunpei Zhang, **Yang Xiao**, Feng Li, Wei Huo. USENIX Security Symposium. (CCF-A)
+3. [USENIX SEC] **ZIPPER: Static Taint Analysis for PHP Applications with Precision and Efficiency.** Xinyi Wang, Yeting Li, Jie Lu, Shizhe Cui, Chenghang Shi, Qin Mai, Yunpei Zhang, **Yang Xiao**, Feng Li, Wei Huo. USENIX Security Symposium. (CCF-A)
 4. [ACL] **Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data.** Xin-Cheng Wen, Yijun Yang, Cuiyun Gao, **Yang Xiao**, Deheng Ye. Association for Computational Linguistics. (CCF-A)
 
 
