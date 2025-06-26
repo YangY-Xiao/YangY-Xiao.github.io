@@ -13,11 +13,19 @@ I am an associate professor at Institute of Information Engineering, Chinese Aca
 
 # Publications
 
+## 2025
+1. [USENIX SEC] **From Constraints to Cracks: Constraint Semantic Inconsistencies as Vulnerability Beacons for Embedded Systems.** Jiaxu Zhao, Yuekang Li, Yanyan Zou, **Yang Xiao**, Naijia Jiang, Yeting Li, Nanyu Zhong, Bingwei Peng, Kunpeng Jian, Wei Huo. USENIX Security Symposium. (CCF-A)
+2. [USENIX SEC] **VULCANBOOST: Boosting ReDoS Fixes through Symbolic Representation and Feature Normalization.** Yeting Li, Yecheng Sun, Zhiwu Xu, Haiming Chen, Xinyi Wang, Hengyu Yang, Huina Chao, Cen Zhang, **Yang Xiao**, Yanyan Zou, Feng Li, Wei Huo. USENIX Security Symposium. (CCF-A)
+3. [USENIX SEC] **ZIPPER: Static Taint Analysis for PHP Applications with Precision and Efficiency.** Xinyi Wang, Yeting Li*, Jie Lu, Shizhe Cui, Chenghang Shi, Qin Mai, Yunpei Zhang, **Yang Xiao**, Feng Li, Wei Huo. USENIX Security Symposium. (CCF-A)
+4. [ACL] **Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data.** Xin-Cheng Wen, Yijun Yang, Cuiyun Gao, **Yang Xiao**, Deheng Ye. Association for Computational Linguistics. (CCF-A)
+
+
 ## 2024
 1. [USENIX SEC] **Leveraging Semantic Relations in Code and Data to Enhance Taint  Analysis of Embedded Systems.** Jiaxu Zhao, Yuekang Li, Yanyan Zou, Zhaohui Liang, **Yang Xiao**, Yeting Li, Bingwei Peng, Nanyu Zhong, Xinyi Wang, Wei Wang, Wei Huo. USENIX Security Symposium. (CCF-A)
-1. [ISSTA] **SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection.** Xincheng Wen, Cuiyun Gao, Shuzheng Gao, **Yang Xiao**, Michael R Lyu. ACM SIGSOFT International Symposium on Software Testing and Analysis. (CCF-A)
-1. [NDSS] **File Hijacking Vulnerability: The Elephant in the Room.** Chendong Yu, **Yang Xiao(*),** Jie Lu, Yuekang Li, Yeting Li, Lian Li, Yifan Dong, Jian Wang, Jingyi Shi, Defang Bo, Wei Huo. Network and Distributed System Security (NDSS) Symposium. (CCF-A)
-1. [ICSE] **LibvDiff: Library Version Difference Guided OSS Version Identification in Binaries.** Chaopeng Dong, Siyuan Li, Shouguo Yang, **Yang Xiao**, Yongpan Wang, Hong Li, Zhi Li, Limin Sun. 46th International Conference on Software Engineering. (CCF-A)
+2. [ISSTA] **SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection.** Xincheng Wen, Cuiyun Gao, Shuzheng Gao, **Yang Xiao**, Michael R Lyu. ACM SIGSOFT International Symposium on Software Testing and Analysis. (CCF-A)
+3. [NDSS] **File Hijacking Vulnerability: The Elephant in the Room.** Chendong Yu, **Yang Xiao(\*)**, Jie Lu, Yuekang Li, Yeting Li, Lian Li, Yifan Dong, Jian Wang, Jingyi Shi, Defang Bo, Wei Huo. Network and Distributed System Security (NDSS) Symposium. (CCF-A)
+4. [ICSE] **LibvDiff: Library Version Difference Guided OSS Version Identification in Binaries.** Chaopeng Dong, Siyuan Li, Shouguo Yang, **Yang Xiao**, Yongpan Wang, Hong Li, Zhi Li, Limin Sun. 46th International Conference on Software Engineering. (CCF-A)
+
 
 ## 2023
 1. [CCS] **Enhancing OSS Patch Backporting with Semantics.** Su Yang, **Yang Xiao**, Zhengzi Xu, Chengyi Sun,  Chen Ji, Yuqing Zhang.  The ACM Conference on Computer and Communications Security. (CCF-A) 
