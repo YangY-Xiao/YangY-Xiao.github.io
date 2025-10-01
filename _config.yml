@@ -4,3 +4,5 @@ description: Welcome to the real world.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+baseurl: ""
+url: "https://yangy-xiao.github.io"
