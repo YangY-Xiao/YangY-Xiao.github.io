@@ -7,11 +7,13 @@ jobs:
     runs-on: ubuntu-latest
     name: script/cibuild
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.1
           bundler-cache: true
+      - name: Set script permissions
+        run: chmod +x script/bootstrap script/cibuild script/validate-html
       - name: build
         run: script/bootstrap
       - name: test
